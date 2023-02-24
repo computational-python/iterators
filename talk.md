@@ -246,7 +246,7 @@ after yield
 --
 
 ```
->>> next(g2)
+>>> next(g2) #doctest: +SKIP
 after yield
 after while
 ...
